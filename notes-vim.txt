@@ -1,0 +1,14 @@
+Vim Notes
+
+c / hello
+delete till text "hello" and enter insert mode. c = "change"
+
+:noh
+remove text highlight after doing a search.
+
+ctrl w ->
+move to that split screen
+
+ctrl w r
+move current split to right
+
